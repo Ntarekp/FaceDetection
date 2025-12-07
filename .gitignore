@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Datasets (privacy - don't commit personal face images)
+datasets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Screenshots and videos
+*.png
+*.jpg
+*.jpeg
+*.mov
+*.mp4
+*.avi
+*.mkv
+video_demonstration/
+
+# OS
+.DS_Store
+Thumbs.db
